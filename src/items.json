@@ -1,0 +1,6 @@
+[
+    { "name": "Magic Sword", "weight": 5, "value": 100 },
+    { "name": "Healing Potion", "weight": 1, "value": 50 },
+    { "name": "Gold Coins", "weight": 2, "value": 200 }
+]
+  
